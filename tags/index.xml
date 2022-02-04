@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://www.netwrk.ch/tags/</link>
+    <link>https://netwrk.ch/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 12:00:00 +0100</lastBuildDate><atom:link href="https://www.netwrk.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Feb 2022 12:00:00 +0100</lastBuildDate><atom:link href="https://netwrk.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cisco</title>
-      <link>https://www.netwrk.ch/tags/cisco/</link>
+      <link>https://netwrk.ch/tags/cisco/</link>
       <pubDate>Fri, 04 Feb 2022 12:00:00 +0100</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/cisco/</guid>
+      <guid>https://netwrk.ch/tags/cisco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Examples</title>
-      <link>https://www.netwrk.ch/tags/examples/</link>
+      <link>https://netwrk.ch/tags/examples/</link>
       <pubDate>Fri, 04 Feb 2022 12:00:00 +0100</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/examples/</guid>
+      <guid>https://netwrk.ch/tags/examples/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IOS</title>
-      <link>https://www.netwrk.ch/tags/ios/</link>
+      <link>https://netwrk.ch/tags/ios/</link>
       <pubDate>Fri, 04 Feb 2022 12:00:00 +0100</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/ios/</guid>
+      <guid>https://netwrk.ch/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RestConf</title>
-      <link>https://www.netwrk.ch/tags/restconf/</link>
+      <link>https://netwrk.ch/tags/restconf/</link>
       <pubDate>Fri, 04 Feb 2022 12:00:00 +0100</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/restconf/</guid>
+      <guid>https://netwrk.ch/tags/restconf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VRF</title>
-      <link>https://www.netwrk.ch/tags/vrf/</link>
+      <link>https://netwrk.ch/tags/vrf/</link>
       <pubDate>Fri, 04 Feb 2022 12:00:00 +0100</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/vrf/</guid>
+      <guid>https://netwrk.ch/tags/vrf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello</title>
-      <link>https://www.netwrk.ch/tags/hello/</link>
+      <link>https://netwrk.ch/tags/hello/</link>
       <pubDate>Thu, 03 Feb 2022 12:00:00 +0100</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/hello/</guid>
+      <guid>https://netwrk.ch/tags/hello/</guid>
       <description></description>
     </item>
     
     <item>
       <title>World</title>
-      <link>https://www.netwrk.ch/tags/world/</link>
+      <link>https://netwrk.ch/tags/world/</link>
       <pubDate>Thu, 03 Feb 2022 12:00:00 +0100</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/world/</guid>
+      <guid>https://netwrk.ch/tags/world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About us</title>
-      <link>https://www.netwrk.ch/tags/about-us/</link>
+      <link>https://netwrk.ch/tags/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/about-us/</guid>
+      <guid>https://netwrk.ch/tags/about-us/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Info</title>
-      <link>https://www.netwrk.ch/tags/info/</link>
+      <link>https://netwrk.ch/tags/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/info/</guid>
+      <guid>https://netwrk.ch/tags/info/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Netwrk.ch</title>
-      <link>https://www.netwrk.ch/tags/netwrk.ch/</link>
+      <link>https://netwrk.ch/tags/netwrk.ch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.netwrk.ch/tags/netwrk.ch/</guid>
+      <guid>https://netwrk.ch/tags/netwrk.ch/</guid>
       <description></description>
     </item>
     

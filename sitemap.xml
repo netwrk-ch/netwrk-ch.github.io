@@ -2,87 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.netwrk.ch/</loc>
+    <loc>https://netwrk.ch/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/cisco/</loc>
+    <loc>https://netwrk.ch/tags/cisco/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/posts/restconf/</loc>
+    <loc>https://netwrk.ch/posts/restconf/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/examples/</loc>
+    <loc>https://netwrk.ch/tags/examples/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/ios/</loc>
+    <loc>https://netwrk.ch/tags/ios/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/posts/</loc>
+    <loc>https://netwrk.ch/posts/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/restconf/</loc>
+    <loc>https://netwrk.ch/tags/restconf/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/</loc>
+    <loc>https://netwrk.ch/tags/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/vrf/</loc>
+    <loc>https://netwrk.ch/tags/vrf/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/hello/</loc>
+    <loc>https://netwrk.ch/tags/hello/</loc>
     <lastmod>2022-02-03T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/posts/welcome/</loc>
+    <loc>https://netwrk.ch/posts/welcome/</loc>
     <lastmod>2022-02-03T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/world/</loc>
+    <loc>https://netwrk.ch/tags/world/</loc>
     <lastmod>2022-02-03T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/about/</loc>
+    <loc>https://netwrk.ch/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/about-us/</loc>
+    <loc>https://netwrk.ch/tags/about-us/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/categories/</loc>
+    <loc>https://netwrk.ch/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/info/</loc>
+    <loc>https://netwrk.ch/tags/info/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/netwrk.ch/</loc>
+    <loc>https://netwrk.ch/tags/netwrk.ch/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/series/</loc>
+    <loc>https://netwrk.ch/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

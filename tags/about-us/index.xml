@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About us on </title>
-    <link>https://www.netwrk.ch/tags/about-us/</link>
+    <link>https://netwrk.ch/tags/about-us/</link>
     <description>Recent content in About us on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.netwrk.ch/tags/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://netwrk.ch/tags/about-us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About netwrk.ch</title>
-      <link>https://www.netwrk.ch/about/</link>
+      <link>https://netwrk.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.netwrk.ch/about/</guid>
+      <guid>https://netwrk.ch/about/</guid>
       <description>To decouple my privat blog (blog.strnad.ch) from more tech and business related information, I created the brand netwrk.</description>
     </item>
     
