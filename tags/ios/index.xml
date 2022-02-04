@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://www.netwrk.ch/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>IOS on </title>
+    <link>https://www.netwrk.ch/tags/ios/</link>
+    <description>Recent content in IOS on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 12:00:00 +0100</lastBuildDate><atom:link href="https://www.netwrk.ch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Feb 2022 12:00:00 +0100</lastBuildDate><atom:link href="https://www.netwrk.ch/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cisco RestConf Cheatsheet</title>
       <link>https://www.netwrk.ch/posts/restconf/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://www.netwrk.ch/posts/restconf/</guid>
       <description>This post is a work in progress, as i’m currently using Restconf for a customer, I want to save/post some of the infos I discovered in the process.</description>
-    </item>
-    
-    <item>
-      <title>Welcome &amp; Hello World!</title>
-      <link>https://www.netwrk.ch/posts/welcome/</link>
-      <pubDate>Thu, 03 Feb 2022 12:00:00 +0100</pubDate>
-      
-      <guid>https://www.netwrk.ch/posts/welcome/</guid>
-      <description>It always starts like this, so welcome to the blog of netwrk.</description>
     </item>
     
   </channel>

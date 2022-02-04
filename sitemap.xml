@@ -3,21 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.netwrk.ch/</loc>
-    <lastmod>2022-02-03T12:00:00+01:00</lastmod>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.netwrk.ch/tags/hello/</loc>
-    <lastmod>2022-02-03T12:00:00+01:00</lastmod>
+    <loc>https://www.netwrk.ch/tags/cisco/</loc>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.netwrk.ch/posts/restconf/</loc>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.netwrk.ch/tags/examples/</loc>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.netwrk.ch/tags/ios/</loc>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.netwrk.ch/posts/</loc>
-    <lastmod>2022-02-03T12:00:00+01:00</lastmod>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.netwrk.ch/tags/restconf/</loc>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.netwrk.ch/tags/</loc>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.netwrk.ch/tags/vrf/</loc>
+    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.netwrk.ch/tags/hello/</loc>
     <lastmod>2022-02-03T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
