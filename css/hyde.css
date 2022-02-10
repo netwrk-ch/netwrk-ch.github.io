@@ -134,7 +134,7 @@ footer {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 40rem;
+    max-width: 56rem;
     margin-left: 20rem;
     margin-right: 2rem;
     margin-bottom: -40px;

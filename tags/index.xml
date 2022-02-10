@@ -6,13 +6,49 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 12:00:00 +0100</lastBuildDate><atom:link href="https://netwrk.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Feb 2022 08:00:00 +0100</lastBuildDate><atom:link href="https://netwrk.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACI</title>
+      <link>https://netwrk.ch/tags/aci/</link>
+      <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
+      
+      <guid>https://netwrk.ch/tags/aci/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Cisco</title>
       <link>https://netwrk.ch/tags/cisco/</link>
-      <pubDate>Fri, 04 Feb 2022 12:00:00 +0100</pubDate>
+      <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
       
       <guid>https://netwrk.ch/tags/cisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discoveryissues</title>
+      <link>https://netwrk.ch/tags/discoveryissues/</link>
+      <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
+      
+      <guid>https://netwrk.ch/tags/discoveryissues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replacement</title>
+      <link>https://netwrk.ch/tags/replacement/</link>
+      <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
+      
+      <guid>https://netwrk.ch/tags/replacement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spine</title>
+      <link>https://netwrk.ch/tags/spine/</link>
+      <pubDate>Thu, 10 Feb 2022 08:00:00 +0100</pubDate>
+      
+      <guid>https://netwrk.ch/tags/spine/</guid>
       <description></description>
     </item>
     

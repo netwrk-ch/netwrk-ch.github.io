@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://netwrk.ch/</loc>
-    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/aci/</loc>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/posts/aci-replace-single-spine/</loc>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://netwrk.ch/tags/cisco/</loc>
-    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/discoveryissues/</loc>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/posts/</loc>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/replacement/</loc>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/spine/</loc>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/</loc>
+    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -27,17 +62,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://netwrk.ch/posts/</loc>
-    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://netwrk.ch/tags/restconf/</loc>
-    <lastmod>2022-02-04T12:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://netwrk.ch/tags/</loc>
     <lastmod>2022-02-04T12:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
