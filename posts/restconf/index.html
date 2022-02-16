@@ -14,7 +14,7 @@
 <meta itemprop="name" content="Cisco RestConf Cheatsheet">
 <meta itemprop="description" content="Overview of some RestConf Paths and how to use them."><meta itemprop="datePublished" content="2022-02-04T12:00:00+01:00" />
 <meta itemprop="dateModified" content="2022-02-04T12:00:00+01:00" />
-<meta itemprop="wordCount" content="162">
+<meta itemprop="wordCount" content="327">
 <meta itemprop="keywords" content="Cisco,IOS,RestConf,Examples,VRF," />
 
 <meta name="twitter:card" content="summary"/>
@@ -254,7 +254,7 @@
   
 
   <div class="post-date">
-    <time datetime="2022-02-04T12:00:00&#43;0100">Feb 4, 2022</time> <span class="readtime">&middot; 1 min read</span>
+    <time datetime="2022-02-04T12:00:00&#43;0100">Feb 4, 2022</time> <span class="readtime">&middot; 2 min read</span>
   </div>
 
   <div>
@@ -310,6 +310,83 @@ PASS <span style="color:#719e07">=</span> <span style="color:#2aa198">&#39;passw
 
 <span style="color:#719e07">if</span> __name__ <span style="color:#719e07">==</span> <span style="color:#2aa198">&#39;__main__&#39;</span>:
     main()
+</code></pre></div><h2 id="update-a-vrf">Update a VRF</h2>
+<p>The update process works a bit different, the following example shows how to add
+an additional rt to the vrf TEST</p>
+<p>Example of the vrf before our change</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-plaintext" data-lang="plaintext">vrf definition TEST
+ rd 1:1
+ !
+ address-family ipv4
+  route-target export 1:1
+  route-target export 3:3
+  route-target import 1:1
+  route-target import 2:2
+ exit-address-family
+</code></pre></div><div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#719e07">import</span> requests
+
+requests<span style="color:#719e07">.</span>packages<span style="color:#719e07">.</span>urllib3<span style="color:#719e07">.</span>disable_warnings()
+
+HOST <span style="color:#719e07">=</span> <span style="color:#2aa198">&#39;1.1.1.1&#39;</span>
+PORT <span style="color:#719e07">=</span> <span style="color:#2aa198">443</span>
+USER <span style="color:#719e07">=</span> <span style="color:#2aa198">&#39;user&#39;</span>
+PASS <span style="color:#719e07">=</span> <span style="color:#2aa198">&#39;password&#39;</span>
+
+<span style="color:#719e07">def</span> <span style="color:#268bd2">main</span>():
+    url <span style="color:#719e07">=</span> <span style="color:#2aa198">f</span><span style="color:#2aa198">&#39;https://</span><span style="color:#2aa198">{</span>HOST<span style="color:#2aa198">}</span><span style="color:#2aa198">:</span><span style="color:#2aa198">{</span>PORT<span style="color:#2aa198">}</span><span style="color:#2aa198">/restconf/data/Cisco-IOS-XE-native:native&#39;</span>
+
+    headers <span style="color:#719e07">=</span> {
+        <span style="color:#2aa198">&#39;Content-Type&#39;</span>: <span style="color:#2aa198">&#39;application/yang-data+json&#39;</span>,
+        <span style="color:#2aa198">&#39;Accept&#39;</span>: <span style="color:#2aa198">&#39;application/yang-data+json&#39;</span>
+    }
+
+    data <span style="color:#719e07">=</span> {
+        <span style="color:#2aa198">&#34;native&#34;</span>:{
+            <span style="color:#2aa198">&#34;vrf&#34;</span>: {
+                <span style="color:#2aa198">&#34;definition&#34;</span>: {
+                    <span style="color:#2aa198">&#34;name&#34;</span>: <span style="color:#2aa198">&#34;TEST&#34;</span>,
+                    <span style="color:#2aa198">&#34;address-family&#34;</span>: {
+                        <span style="color:#2aa198">&#34;ipv4&#34;</span>: {
+                            <span style="color:#2aa198">&#34;route-target&#34;</span>: {
+                                <span style="color:#2aa198">&#34;import-route-target&#34;</span>: {
+                                    <span style="color:#2aa198">&#34;without-stitching&#34;</span>: [
+                                        {
+                                            <span style="color:#2aa198">&#34;asn-ip&#34;</span>: <span style="color:#2aa198">&#34;5:5&#34;</span>
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    response <span style="color:#719e07">=</span> requests<span style="color:#719e07">.</span>patch(
+        url,
+        auth<span style="color:#719e07">=</span>(USER, PASS),
+        headers<span style="color:#719e07">=</span>headers,
+        verify<span style="color:#719e07">=</span><span style="color:#cb4b16">False</span>,
+        json<span style="color:#719e07">=</span>data
+    )
+
+    <span style="color:#b58900">print</span>(response<span style="color:#719e07">.</span>text)
+
+<span style="color:#719e07">if</span> __name__ <span style="color:#719e07">==</span> <span style="color:#2aa198">&#39;__main__&#39;</span>:
+    main()
+</code></pre></div><p>And then the VRF after the change</p>
+<div class="highlight"><pre tabindex="0" style="color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-plaintext" data-lang="plaintext">Current configuration : 212 bytes
+vrf definition TEST
+ rd 1:1
+ !
+ address-family ipv4
+  route-target export 1:1
+  route-target export 3:3
+  route-target import 1:1
+  route-target import 2:2
+  route-target import 5:5
+ exit-address-family
 </code></pre></div>
   </div>
 

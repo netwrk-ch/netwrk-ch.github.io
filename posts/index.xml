@@ -6,7 +6,16 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Feb 2022 08:00:00 +0100</lastBuildDate><atom:link href="https://netwrk.ch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Feb 2022 07:45:46 +0100</lastBuildDate><atom:link href="https://netwrk.ch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Touch Id for Sudo</title>
+      <link>https://netwrk.ch/posts/touch-id-for-sudo/</link>
+      <pubDate>Wed, 16 Feb 2022 07:45:46 +0100</pubDate>
+      
+      <guid>https://netwrk.ch/posts/touch-id-for-sudo/</guid>
+      <description>If you are like me and a bit lazy, the touch id is a really nice addition from apple.</description>
+    </item>
+    
     <item>
       <title>ACI: Spine replacement in a single Spine fabric</title>
       <link>https://netwrk.ch/posts/aci-replace-single-spine/</link>

@@ -3,7 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://netwrk.ch/</loc>
-    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/apple/</loc>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/macos/</loc>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/posts/</loc>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/sudo/</loc>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/</loc>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/posts/touch-id-for-sudo/</loc>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://netwrk.ch/tags/touchid/</loc>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -27,22 +62,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://netwrk.ch/posts/</loc>
-    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://netwrk.ch/tags/replacement/</loc>
     <lastmod>2022-02-10T08:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://netwrk.ch/tags/spine/</loc>
-    <lastmod>2022-02-10T08:00:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://netwrk.ch/tags/</loc>
     <lastmod>2022-02-10T08:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
