@@ -12,6 +12,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://netwrk.ch/posts/touch-id-for-sudo/</loc>
+    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://netwrk.ch/tags/macos/</loc>
     <lastmod>2022-02-16T07:45:46+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -28,11 +33,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://netwrk.ch/tags/</loc>
-    <lastmod>2022-02-16T07:45:46+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://netwrk.ch/posts/touch-id-for-sudo/</loc>
     <lastmod>2022-02-16T07:45:46+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
